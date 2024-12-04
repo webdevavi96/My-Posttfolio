@@ -59,7 +59,7 @@ nav ul li > span:hover{
 }
 
 .hero-section{
-  height: calc(80vh - 5.5rem);
+  height: calc(80vh - 5.6rem);
   width: 100%;
   display: flex;
   flex-direction: column;
