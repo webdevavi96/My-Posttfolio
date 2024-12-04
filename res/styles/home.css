@@ -43,7 +43,6 @@ nav > ul{
 
 nav > ul > li{
   list-style: none;
-  padding: 5px;
 }
 
 nav ul li > span{
@@ -71,6 +70,9 @@ nav ul li > span:hover{
 @media screen and (max-width: 768px){
   .hero-section{
     height: calc(90vh - 5rem);
+  }
+  header nav ul li > span{
+    font-size: .9rem;
   }
 }
 
