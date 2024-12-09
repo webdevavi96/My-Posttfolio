@@ -56,6 +56,7 @@ This project is open-source under the MIT License.
 
 🌟 Preview
 
+![Homepage Screenshot](res/img/screenshots/Homepage.jpg)
 
 
 
