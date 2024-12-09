@@ -55,8 +55,7 @@ This project is open-source under the MIT License.
 ---
 
 🌟 Preview
-
-![Homepage Screenshot](res/img/screenshots/Homepage.jpg)
+<img src="/My-Portfolio/res/img/assets/screenshots/Homepage.jpg" alt="Screenshot Description" width="600">
 
 
 
